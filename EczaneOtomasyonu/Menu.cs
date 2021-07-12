@@ -25,6 +25,8 @@ namespace EczaneOtomasyonu
 
             using (WebClient wc = new WebClient())
             {
+                ServicePointManager.Expect100Continue = true;
+                ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
                 var json = wc.DownloadString("https://raw.githubusercontent.com/ozanerturk/covid19-turkey-api/master/dataset/timeline.json");
                 //güncel verileri tutan json belgesini var değişkene aktardık
                 jsonVerileri = json.ToString().Split('{');
@@ -39,8 +41,8 @@ namespace EczaneOtomasyonu
             label7.Text = bugunkiKoronaCozumle[31];
             //dizideki sıraya göre ölüm sayısı , vaka sayısı gibi sayıları bulup gerekli sıraya koyduk
             label8.Text = bugunkiKoronaCozumle[35];
-            label9.Text = bugunkiKoronaCozumle[51];
-            label10.Text = bugunkiKoronaCozumle[47];
+            label9.Text = bugunkiKoronaCozumle[55];
+            label10.Text = bugunkiKoronaCozumle[51];
 
 
 

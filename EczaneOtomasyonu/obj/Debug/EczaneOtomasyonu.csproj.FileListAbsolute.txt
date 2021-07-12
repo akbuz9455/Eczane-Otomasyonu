@@ -16,3 +16,19 @@ C:\Users\pc\documents\visual studio 2015\Projects\EczaneOtomasyonu\EczaneOtomasy
 C:\Users\pc\documents\visual studio 2015\Projects\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\Newtonsoft.Json.dll
 C:\Users\pc\documents\visual studio 2015\Projects\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\Newtonsoft.Json.xml
 C:\Users\pc\documents\visual studio 2015\Projects\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.cari.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\bin\Debug\EczaneOtomasyonu.exe.config
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.exe
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.pdb
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\bin\Debug\EczaneOtomasyonu.exe
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\bin\Debug\EczaneOtomasyonu.pdb
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.AsiTakipFormu.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.cari.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.girisForm.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.hastaKayit.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.hastaTakip.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.ilacBilgileriForm.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.Menu.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.personel_islemleri.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\pc\Documents\GitHub\Eczane-Otomasyonu\EczaneOtomasyonu\obj\Debug\EczaneOtomasyonu.csproj.GenerateResource.Cache
